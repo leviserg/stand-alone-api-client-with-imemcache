@@ -1,0 +1,6 @@
+@stand_alone_api_client_with_imemcache_HostAddress = http://localhost:5118
+
+GET {{stand_alone_api_client_with_imemcache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
